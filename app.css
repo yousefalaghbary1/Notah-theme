@@ -20449,8 +20449,8 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
     border-style: dashed;
     border-bottom-color: rgba(255, 255, 255, 0.1);
     --tw-bg-opacity: 1;
-    background-color: rgba(29, 31, 31, 1);
-    background-color: rgba(29, 31, 31, var(--tw-bg-opacity, 1));
+    /* background-color: rgba(29, 31, 31, 1);
+    background-color: rgba(29, 31, 31, var(--tw-bg-opacity, 1)); */
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -20501,8 +20501,8 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
 }
 .footer-is-light .store-footer {
     --tw-bg-opacity: 1;
-    background-color: rgba(249, 250, 251, 1);
-    background-color: rgba(249, 250, 251, var(--tw-bg-opacity, 1));
+    /* background-color: rgba(249, 250, 251, 1);
+    background-color: rgba(249, 250, 251, var(--tw-bg-opacity, 1)); */
     --tw-text-opacity: 1;
     color: rgba(55, 65, 81, 1);
     color: rgba(55, 65, 81, var(--tw-text-opacity, 1));
@@ -20512,8 +20512,8 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
     border-bottom-color: rgba(229, 231, 235, 1);
     border-bottom-color: rgba(229, 231, 235, var(--tw-border-opacity, 1));
     --tw-bg-opacity: 1;
-    background-color: rgba(243, 244, 246, 1);
-    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1));
+    /* background-color: rgba(243, 244, 246, 1);
+    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1)); */
 }
 .footer-is-light .store-footer .social-link {
     --tw-border-opacity: 1;
@@ -24678,7 +24678,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
   opacity: 1 !important;
 }
 .notah-store-footer .notah-store-footer__inner salla-social .s-social-list .s-social-link a:hover {
-  background-color: #414042;
+  /* background-color: #414042; */
   background-color: var(--color-primary);
 }
 .notah-store-footer .notah-store-footer__inner salla-social .s-social-list .s-social-link a:hover svg {
@@ -24686,7 +24686,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
 }
 .notah-store-footer .notah-store-footer__inner salla-menu a {
   font-size: 15px !important;
-  color: var(--color-footer-text) !important;
+  /* color: var(--color-footer-text) !important; */
   opacity: 0.7 !important;
   transition: 0.3s !important;
 }
@@ -24700,7 +24700,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
   transition: 0.3s !important;
 }
 .notah-store-footer .notah-store-footer__inner salla-contacts .s-contacts-item .s-contacts-icon {
-  color: var(--color-footer-text) !important;
+  /* color: var(--color-footer-text) !important; */
   border: none !important;
   margin: 0 !important;
 }
@@ -24710,7 +24710,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
 }
 .notah-store-footer .notah-store-footer__inner salla-contacts .s-contacts-item .unicode {
   font-size: 15px !important;
-  color: var(--color-footer-text) !important;
+  /* color: var(--color-footer-text) !important; */
   opacity: 0.7 !important;
   transition: 0.3s !important;
 }
@@ -24721,10 +24721,10 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
   opacity: 1 !important;
 }
 .notah-store-footer .notah-copyright {
-  background-color: var(--color-footer) !important;
+  /* background-color: var(--color-footer) !important; */
 }
 .notah-store-footer .notah-copyright .copyright-text p {
-  color: var(--color-footer-text) !important;
+  /* color: var(--color-footer-text) !important; */
 }
 .notah-store-footer .notah-copyright salla-payments .s-payments-list-item {
   height: 28px !important;
