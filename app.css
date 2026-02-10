@@ -20425,8 +20425,8 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
     position: relative;
     margin-top: 2rem;
     --tw-bg-opacity: 1;
-    background-color: rgba(14, 15, 15, 1);
-    background-color: rgba(14, 15, 15, var(--tw-bg-opacity, 1));
+    /* background-color: rgba(14, 15, 15, 1);
+    background-color: rgba(14, 15, 15, var(--tw-bg-opacity, 1)); */
     --tw-text-opacity: 1;
     color: rgba(255, 255, 255, 1);
     color: rgba(255, 255, 255, var(--tw-text-opacity, 1));
