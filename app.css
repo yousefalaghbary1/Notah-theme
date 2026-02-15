@@ -26444,7 +26444,7 @@ salla-products-slider .swiper-wrapper {
 }
 
 .ws-btn-primary {
-  background: #000;
+  background: var(--color-btn-card);
   color: #fff;
   border: none;
 }
