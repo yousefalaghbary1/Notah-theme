@@ -20512,8 +20512,8 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
     border-bottom-color: rgba(229, 231, 235, 1);
     border-bottom-color: rgba(229, 231, 235, var(--tw-border-opacity, 1));
     --tw-bg-opacity: 1;
-    background-color: rgba(243, 244, 246, 1);
-    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1));
+    /* background-color: rgba(243, 244, 246, 1);
+    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1)); */
 }
 .footer-is-light .store-footer .social-link {
     --tw-border-opacity: 1;
@@ -24678,7 +24678,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
   opacity: 1 ;
 }
 .notah-store-footer .notah-store-footer__inner salla-social .s-social-list .s-social-link a:hover {
-  background-color: #414042;
+  /* background-color: #414042; */
   background-color: var(--color-primary);
 }
 .notah-store-footer .notah-store-footer__inner salla-social .s-social-list .s-social-link a:hover svg {
