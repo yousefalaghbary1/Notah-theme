@@ -24883,7 +24883,7 @@ body.font-dinnextltarabic-regular .btn--add-to-cart {
   line-height: 20px ;
   font-weight: 700 ;
   color: white ;
-  background-color: var(--color-btn-card) ;
+  background-color: #000000 ;
 }
 .s-product-card-entry .s-product-card-content-footer button:hover {
   background-color: var(--color-btn-hover-card) ;
@@ -26634,7 +26634,7 @@ salla-products-slider .swiper-wrapper {
 }
 
 .ws-btn-primary {
-  background: var(--color-btn-card);
+  /* background: var(--color-btn-card); */
   color: #fff;
   border: none;
 }
