@@ -18380,11 +18380,11 @@ input[type=radio].sr-only:checked ~ div.s-wallet-table-tbody-tr a {
     right: 0px;
 }
 :root {
-  --infinte-color: #c9c9c9;
+  /* --infinte-color: #c9c9c9;
   --main-text-color: #231f1e;
-  --main-text-color-dark: #2b2d34;
+  --main-text-color-dark: #2b2d34; */
   /* current */
-  --color-primary: #5cd5c4;
+  /* --color-primary: #5cd5c4;
   --color-primary: #414042;
   --color-primary-d: #272628;
   --color-primary-l: #676668;
@@ -18392,9 +18392,9 @@ input[type=radio].sr-only:checked ~ div.s-wallet-table-tbody-tr a {
   --color-text: #7c8082;
   --bg-gray: rgba(198,199,206,0.10196);
   --color-grey: #f5f7f9;
-  --color-light-grey: #eeeeee;
+  --color-light-grey: #eeeeee; */
   /* font-size */
-  --font-sm: 0.8685714286rem;
+  /* --font-sm: 0.8685714286rem; */
   /* font-family: ; */
   --font-main: "DINNextLTArabic";
   /* plugins */
@@ -18404,8 +18404,8 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 26px;
-  color: #231f1e;
-  color: var(--main-text-color);
+  /* color: #231f1e;
+  color: var(--main-text-color); */
   position: relative;
 }
 html {
