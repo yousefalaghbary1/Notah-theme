@@ -20337,11 +20337,11 @@ input[type=radio].sr-only:checked ~ div#nav-cart span {
 }
 .footer-is-light .store-footer .store-footer__inner {
     --tw-border-opacity: 1;
-    border-bottom-color: rgba(229, 231, 235, 1);
+    /* border-bottom-color: rgba(229, 231, 235, 1);
     border-bottom-color: rgba(229, 231, 235, var(--tw-border-opacity, 1));
     --tw-bg-opacity: 1;
     background-color: rgba(243, 244, 246, 1);
-    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1));
+    background-color: rgba(243, 244, 246, var(--tw-bg-opacity, 1)); */
 }
 .footer-is-light .store-footer .social-link {
     --tw-border-opacity: 1;
