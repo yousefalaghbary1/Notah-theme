@@ -26496,3 +26496,11 @@ salla-products-slider .swiper-wrapper {
     padding-bottom: 140px;
   }
 }
+#product-filter{
+  border: 1px solid #f3f4f6;
+}
+.price-btn
+  {
+      border: 1px solid #f3f4f6;
+
+  }
